@@ -1,0 +1,2 @@
+# tianbot_mini_description
+TianbotMini ROS移动机器人学习平台URDF模型描述功能包。
